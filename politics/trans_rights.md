@@ -11,9 +11,12 @@
 ## Conclusions
  - Let doctors help children make the right decision
     - do NOT prohibit all trans affirming care
- - Athletic questions exist outside trans people
+ - Athletic and bathroom issues exist outside of trans issues
     - what teams and bathrooms should intersex people use?
     - they should be able, and have been able to choose, this should not be hard to understand
+ - Athletics have never been fair
+    - those with a genetic advantage win, and it's lauded (Michael Phelps as an example)
+    - issues of fairness have always existed, and lines have been drawn. We need to have a GOOD FAITH conversation about redrawing those lines in light of increased trans visibility. NOT ignore their existence with exclusion.
 
 ## Research
 
