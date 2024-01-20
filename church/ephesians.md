@@ -55,3 +55,8 @@ It is okay to have sinned before or to have lived in a way that is not holy and 
  > "So stop telling lies. Let us tell our neighbors the truth, for we are all parts of the same body. And 'don’t sin by letting anger control you.' Don’t let the sun go down while you are still angry, for anger gives a foothold to the devil. If you are a thief, quit stealing. Instead, use your hands for good hard work, and then give generously to others in need."
 
 These are ways in which our past life might be renewed by this "new nature."
+
+### 29-32
+ > "Don’t use foul or abusive language. Let everything you say be good and helpful, so that your words will be an encouragement to those who hear them. And do not bring sorrow to God’s Holy Spirit by the way you live. Remember, he has identified you as his own, guaranteeing that you will be saved on the day of redemption. Get rid of all bitterness, rage, anger, harsh words, and slander, as well as all types of evil behavior. Instead, be kind to each other, tenderhearted, forgiving one another, just as God through Christ has forgiven you."
+
+These verses emphasize thoughtfullness in our interpersonal communication, and to always be cognizant of the impacts we have on each other. Even when you may be feeling badly, taking that out on others through our words does nothing to solve the problem itself.
