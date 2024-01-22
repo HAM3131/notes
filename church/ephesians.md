@@ -60,3 +60,10 @@ These are ways in which our past life might be renewed by this "new nature."
  > "Don’t use foul or abusive language. Let everything you say be good and helpful, so that your words will be an encouragement to those who hear them. And do not bring sorrow to God’s Holy Spirit by the way you live. Remember, he has identified you as his own, guaranteeing that you will be saved on the day of redemption. Get rid of all bitterness, rage, anger, harsh words, and slander, as well as all types of evil behavior. Instead, be kind to each other, tenderhearted, forgiving one another, just as God through Christ has forgiven you."
 
 These verses emphasize thoughtfullness in our interpersonal communication, and to always be cognizant of the impacts we have on each other. Even when you may be feeling badly, taking that out on others through our words does nothing to solve the problem itself.
+
+## Ephesians 5
+### 1-5
+ > "Imitate God, therefore, in everything you do, because you are his dear children. Live a life filled with love, following the example of Christ. He loved us and offered himself as a sacrifice for us, a pleasing aroma to God. Let there be no sexual immorality, impurity, or greed among you. Such sins have no place among God's people. Obscene stories, foolish talk, and coarse jokes--these are not for you. Instead, let there be thankfulness to God. You can be sure that no immoral, impure, or greedy person will inherit the Kingdom of Christ and of God. For a greedy person is an idolater, worshiping the things of this world."
+
+Woah. Lots of stuff. The structure found in these verses indicate first things we ought to do to follow God, then what we should avoid. Obviously within these are specific instructions we should follow, but the structure also reveals that we must first follow God and try to be like him before we can rid our lives of sin. That is why the things we should do are here before what we should avoid.  
+Looking at these things personally, something I want to read more about is what obscene stories, foolish talk, and coarse jokes are, because these are things I'm afraid I might be doing.
