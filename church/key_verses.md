@@ -6,3 +6,4 @@ This can be used to provide a framework for analyzing the teachings and differen
 
 ## Analyze Later
  - Ephesians 2:8
+    - Similar: Romans 5:1, Galatians 2:16
