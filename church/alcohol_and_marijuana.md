@@ -28,7 +28,7 @@ Finally, I think the call at the end to follow the law, quoting Romans 13:1-2, i
 
 ## Further Reading
  > "GAZETTE: What is cannabis addiction like?  
- > HILL: It’s less addictive than alcohol, less addictive than opioids, but just because it’s less addictive doesn’t mean that it’s not addictive."  
+ > HILL: It's less addictive than alcohol, less addictive than opioids, but just because it's less addictive doesn't mean that it's not addictive."  
  [Harvard Gazette](https://news.harvard.edu/gazette/story/2020/02/professor-explores-marijuanas-safe-use-and-addiction/)
 
  > The site below gives an analysis of the reference in Exodus 30:23 in the Bible which references an herb "qaneh bosem" when God is instructing Moses in the ingredients for a holy anointing oil. It gives the evidence that it is possible the common translation of this as "calamus" may be a mistake, and that the real ingredient could in fact be cannabis. This is not certain, but there is a decent case for it.
