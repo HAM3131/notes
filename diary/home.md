@@ -5,4 +5,4 @@ I want to start keeping a diary, and this is a fun way to do it. It should keep 
 * Adding links based on file contents. IE, if I mention Yosemite National Park somewhere in another file, it could note that it is also in this file.
     * Issue: this could lead to recursive linking between files and be confusing if there are more than two files with the relevant string
 * Adding an `aliases.txt` file, or a master file combining this with `ignore.txt` and `description.txt` to describe what aliases files should go by
-* Add a built in feature for parsing dates and allowing other date formats. (probably the most difficult, but rewarding, method).git 
+* Add a built in feature for parsing dates and allowing other date formats. (probably the most difficult, but rewarding, method).
