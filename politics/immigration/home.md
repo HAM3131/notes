@@ -1,7 +1,7 @@
-# immigration
+# Immigration
 Author: Henry Manning  
 Started: 1/1/24  
-Finished: WIP
+Status: WIP
 
 ## Intro
 
