@@ -14,5 +14,6 @@ This will mostly be a place for me to write notes about random political topics 
 
 ## WIP
 * Department of Education  
+* Patent Reform
 
 Here is everything I have already completed:
