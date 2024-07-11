@@ -15,5 +15,6 @@ This will mostly be a place for me to write notes about random political topics 
 ## WIP
 * Department of Education  
 * Patent Reform
+* States Rights are Undemocratic
 
 Here is everything I have already completed:
