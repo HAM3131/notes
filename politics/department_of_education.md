@@ -25,6 +25,8 @@ Recently, with President Biden's student loan forgiveness programs, an inordinat
 [information from Frederick's piece about polling on the issue]
 
 ## Sources
+[Denver Post](https://www.denverpost.com/2024/07/03/colorado-robert-kennedy-rjk-presidential-ballot-libertarian-party/)
+
 [Rick Hess](https://www.edweek.org/policy-politics/opinion-republicans-keep-talking-about-abolishing-the-education-department-why/2023/10) at `EducationWeek`
 
 [Frederick M. Hess](https://www.aei.org/op-eds/what-it-would-mean-to-abolish-the-u-s-department-of-education/) at `AEI`
