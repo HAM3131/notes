@@ -3,27 +3,27 @@ The basic idea here is that patents are pretty dumb as they exist today. The wor
 
 Effort also needs to be put into reforming the patent system to prevent patent trolls from filing broad, over-reaching patents in an attempt to create a legal web which they can make money on through law suits.
 
-# History of patents
+## History of patents
 
 [Brief overview of what a patent is]
 
-## Patents exist to protect inventors
+### Patents exist to protect inventors
 
 [Summary of history of patents and why they exist]
 
-## Patents have been twisted to protect corporations over inventors
+### Patents have been twisted to protect corporations over inventors
 
 [transition into an explanation of how this system has been exploited by corporations and no longer protects inventors]
 
-## Patent trolling
+### Patent trolling
 
 [Discusion of patent trolling]
 
-# How we can fix patents
+## How we can fix patents
 
 [Change patents to a small percentage royalty. Why such a small percentage? We want to protect inventors, not corporations. An individual earning a 3% royalty on an invention will earn an enormous amount, but it is intentionally far less impactful for a company]
 
-# Sources
+## Sources
 
 [Gris Anik Blog](https://grisanik.com/blog/ideas-on-how-to-change-the-patent-law/)
 
