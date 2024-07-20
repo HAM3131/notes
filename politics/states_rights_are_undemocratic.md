@@ -39,3 +39,7 @@ Additionally, I want to express the idea that when there is a law that exists on
 ### Promotes unity by allowing those with differing policies to get their way
 
 [explain how actually the opposite is true. People living under different sets of laws become more divided]
+
+### Less bloat and bureaucracy
+
+[when you do everything 50 times, there is in fact more bloat. Also mention that the more local the government, the more common corruption is due to bribes]
