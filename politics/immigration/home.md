@@ -5,7 +5,7 @@ Status: WIP
 
 ## Intro
 
-In media and popular discourse, immigration is a demonized subject which can be the target of a fearmongering and often used as a scapegoat for anything from unemployment to crime, and then there is also just outright racism. Here I hope to do research into the various impacts of immigration. I want to look specifically at the economy, crime, and illegal immigration. I will first detail my opinion on what should be done regarding immigration before the research, and at the end I will take a look at how my outlook has changed. After my initial opinion, I will write a short section listing the talking points I have heard before as a place to start my research from.
+In media and popular discourse, immigration is a demonized subject which can be the target of fearmongering and often used as a scapegoat for anything from unemployment to crime, and then there is also just outright racism. Here I hope to do research into the various impacts of immigration. I want to look specifically at the economy, crime, and illegal immigration. I will first detail my opinion on what should be done regarding immigration before the research, and at the end I will take a look at how my outlook has changed. After my initial opinion, I will write a short section listing the talking points I have heard before as a place to start my research from.
 
 ## Opinion Before Research
 
