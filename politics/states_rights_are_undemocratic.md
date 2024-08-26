@@ -4,6 +4,12 @@ I want to look and see if there is any good writing on this already, but fundame
 
 Additionally, I want to express the idea that when there is a law that exists on the federal level, a desire to return that law to the states is inherently undemocratic. It is akin to reaching an agreement as team by vote, then when the decision does not go your way, splitting the team into smaller groups in the hope that your subdivision will do what you want. There is no coherent reason why a state is better able to make policy than the federal government. At least not one that would equally contend that local government is better than states. And then if you are passing decisions to local government, what makes local government know better what is best for your family than the head of the house? The logical conclusion of the argument is a dissolution of any law by which you do not want to comply, and it disregards the neccesity of a governing body to weigh the interest of the people and hold them in balance.
 
+# States Do Not Have Interests
+
+A state has no interests of it's own. It has only the interests of it's people, and the framing of States having "rights" of their own becomes especially undemocratic when it comes to the apportionment of Senators and Electoral College votes. These institutions have been created in order to grant an inordinate voice to states with smaller populations on the basis that the state deserves to have it's interests recognized beyond a recognition of the interests of it's consituents.
+
+This is undemocratic. It gives undue representation to an entity which has no interest beyond what is already represented by it's individual constituents and begs the question of why someone's vote should count more based on where in the US they cast it. Why should a voter in Rhode Island have 40 times as much say in the Senate than a voter in California? Why should Californian's have a greater voice if they were to reconstitute themselves into 40 smaller states of a million voters than the one they exist within now? Their interests will not have changed, their representation in the House of Representatives will have remained the same, but by nature of an arbitrary definition of state boundaries they would then have 80 senate seats compared with their current 2.
+
 ## History of states' rights and compromise
 
 [brief introduction to history]
