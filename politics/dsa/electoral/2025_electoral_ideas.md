@@ -19,7 +19,15 @@ Alternatively, they could place new investments in wind power, which Ohio is wel
 
 [Brief article](https://www.cincinnati.com/story/news/politics/2024/10/02/city-of-cincinnati-seeking-ideas-to-repurpose-empty-subway-tunnel/75486296007/)
 
-There is someone in the Majority Report Discord who is trying to create a proposal for this tunnel. Whether that proposal gains traction or not, the city seems to be planning to act on this in a little time. There is currently a water main and fiber optic infrastructure running through the tunnel, but it will need to be removed at some point in the future and that is when they want to use the tunnel for another purpose. It could be possible for some kind of organizing to promote this proposal or another like it to utilize our public infrastructure for public infrastructure purposes.
+[At least one city council member is open to a subway, but funding is the largest issue](https://www.wcpo.com/news/local-news/i-would-love-a-regional-subway-system-city-leaders-discuss-options-for-cincinnatis-abandoned-tunnel)
+
+[Revival has been attempted *many* times](https://en.wikipedia.org/wiki/Cincinnati_Subway#Attempts_at_revival)
+
+[FTA Grants](https://www.transit.dot.gov/funding/grants/better-utilizing-investments-leverage-development-build-transportation-grants-program)
+
+There is someone in the Majority Report Discord who is trying to create a proposal for this tunnel. Whether that proposal gains traction or not, the city seems to be planning to act on this in a little time. There is currently a water main and fiber optic infrastructure running through the tunnel, but it will need to be removed at some point in the future and that is when they want to use the tunnel for another purpose. It could be possible for some kind of organizing to promote this proposal or another like it to utilize our public infrastructure for it's intended purpose.
+
+Whether funded through an additional tax levy or federal grants, this could be a huge investment in Cincinnati. It would improve transit for underserved communities, reduce traffic, and position Cincinnati for future growth.
 
 ### Local Campaign Finance Reform
 > In `Citizens United vs FEC` The Supreme Court held 5–4 that the freedom of speech clause of the First Amendment prohibits the government from restricting independent expenditures for political campaigns by corporations, nonprofit organizations, labor unions, and other associations.
